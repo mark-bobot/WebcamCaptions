@@ -109,6 +109,7 @@ Click “Start Virtual Camera”
 Sources → + → Window Capture
 Select the ProjLaoLao window
 Resize to fit canvas
+Mirror the video so the orientation is correct in the call
 
 4) Open WeChat video call
 Select camera:
