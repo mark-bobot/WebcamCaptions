@@ -70,6 +70,7 @@ FIRST RUN NOTES:
 - The first run will download speech + translation models (hundreds of MB)
 - This only happens once
 - The app may look like it is “doing nothing” for 30–90 seconds — this is normal
+<img width="1288" height="946" alt="Screenshot 2025-12-27 at 14 29 22 (2)" src="https://github.com/user-attachments/assets/d292befc-3fe5-4cfd-a646-d28d7a900199" />
 
 
 ==============================
@@ -110,6 +111,8 @@ Sources → + → Window Capture
 Select the ProjLaoLao window
 Resize to fit canvas
 Mirror the video so the orientation is correct in the call
+<img width="1084" height="755" alt="Screenshot 2025-12-27 at 14 27 02" src="https://github.com/user-attachments/assets/15c30179-4932-49fa-b51c-bf459873de18" />
+
 
 4) Open WeChat video call
 Select camera:
@@ -118,6 +121,8 @@ OBS Virtual Camera
 Your call partner will now see:
 - Your webcam
 - Huge Chinese subtitles
+
+<img width="293" height="503" alt="Screenshot 2025-12-27 at 14 45 16" src="https://github.com/user-attachments/assets/6040ce28-ea11-453e-b6c0-3c12ffad0196" />
 
 
 ==============================
